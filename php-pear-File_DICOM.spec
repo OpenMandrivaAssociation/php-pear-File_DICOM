@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.3
-Release:	16
+Release:	17
 Summary:	Package for reading and modifying DICOM files
 License:	PHP License
 Group:		Development/PHP
